@@ -10,3 +10,8 @@
 * Th: (9 - 2) - Review subjects I'm iffy on (especially recursion)
     (2 - EOD) - Help Mom Move
 * F: (All Day) - Move to SF
+
+
+* Helpful functions:
+    * <input type="radio" id="radioButton"> (radio buttons for selecting answers to poll questions)
+    * .click() (for radio buttons and submit button)
